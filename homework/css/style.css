@@ -1,0 +1,24 @@
+body {
+	background-color: rgb(13,8,66);
+	color: rgb(230,231,205);
+	text-align: center;
+}
+
+
+
+
+.face {
+	height: 10em;
+    width: 10em;
+    background-color: blue;
+    margin: 5em auto;
+    border-radius: 100%;
+    background: url(https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/097/1ce/32b3466.jpg);
+    background-size: cover; }
+}
+
+
+.footer p {
+	text-align: center;
+	font-size: 2px;
+}
