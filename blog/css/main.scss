@@ -38,9 +38,7 @@ Using media queries with like this:
 }
 
 
+@import '_base.scss';
+@import '_layout.scss';
+@import '_syntax-highlighting.scss'
 
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
