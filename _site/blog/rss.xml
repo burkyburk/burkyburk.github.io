@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>burkyburk</title>
+		<description>Blogging about stuffs</description>		
+		<link>http://www.burkyburk/blog</link>
+		<atom:link href="http://www.burkyburk/blog/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Text Editors - A Newbie&#39;s Opinion</title>
+				        
+				
+					<description>&lt;p&gt;Ah yes, the text editor. Dare I say, your number one companion as a coder? As a new web developer, (in the game for 2 months), I&amp;#8217;d like to share my opinion on the four text editor&amp;#8217;s I have tried. This is not intended to be an endorsement, simply just my observations on the four I have used. So here we go&amp;#8230;.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;#1. Sublime Text.&lt;/a&gt; &lt;/h2&gt;&lt;p&gt;   Right out of the gate, I will start off by saying Sublime is the #1 used and the go-to text editor for the majority of programmers. It simply gets the job done. I have yet to hear of any of my peers having an issue or bug with it. A key component to the success of Sublime is it&amp;#8217;s large fan base and community of users. These users have made thousands of plugins and themes to completely customize your Sublime experience. And did I mention Sublime just works? Yes. It is as stable and reliable as can be. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;&lt;a href=&quot;http://brackets.io/&quot;&gt;#2. Brackets&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;  Brackets is made by Adobe, the brains behind the ever-so popular Photoshop suite. That alone may give you and idea of what this text editor is geared towards. Brackets has amazing design and front-end capabilities. It comes with a live preview feature that shows you a preview of the page you are building while you are creating it. This editor has huge support for Photoshop. It has a feature called Extract that gives you design info from imported PSD files including colors, fonts, gradients, and measurement information. How cool is that?&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;&lt;a href=&quot;http://lighttable.com/&quot;&gt;#3. Light Table&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;   Light Table touts itself as the &amp;#8220;next generation code editor&amp;#8221;. This is a pretty bold statement, and it may very well be true. However, I feel as though I was unable to tap into it&amp;#8217;s full potential. One of the main features of Light Table is to be able to evaluate your code while you are typing it. This sounds pretty neat, but I was unable to get this feature to work correctly. I fear this code editor maybe isn&amp;#8217;t too newbie friendly or I was just doing something wrong. I will say however,  I much prefer the aesthetic of this editor. The minimal, lightweight design is beautiful. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;&lt;a href=&quot;https://atom.io/&quot;&gt;#4. Atom&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;   Atom is currently my text editor of choice. It&amp;#8217;s made by the fine folks at &lt;a href=&quot;http://www.github.com&quot;&gt;Github&lt;/a&gt;, and is backed by a growing community. Atom looks similar to Sublime from the start and has the same amount of reliability. Also, it&amp;#8217;s updated religiously. I would say once a week. They have a team that is constantly finding bugs and ways to improve the application. That&amp;#8217;s something I love and support. Atom is extremely customizable and I love it&amp;#8217;s easy to understand user interface. You can search for new plugins and themes very easily, and see what plugins and themes have been downloaded the most/are the most popular. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;   So there you have it, my two cents. I will continue to play around with all of these editors and report back if I have new substantial findings. I have no doubt new editors will come out as well. But, for now, Atom has my attention!&lt;/p&gt;
+
+
+</description>
+				
+				<pubDate>Sun, 08 Mar 2015 20:41:50 -0500</pubDate>
+				<link>http://www.burkyburk/blog/2015/03/08/text-editors-a-newbies-opinion.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/2015/03/08/text-editors-a-newbies-opinion.html</guid>
+			</item>
+		
+			<item>
+				<title>Getting There</title>
+				        
+				
+					<description>&lt;p&gt;I am getting there. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Attending The Iron Yard is the best decision I have made in a while. I am loving what I am doing with coding. I am learning to build stuff! I am learning how the web as we know it is built and its extremely exciting. &lt;/p&gt;&lt;p&gt;Just like most of you reading this, I have used the internet for some time but never truly understood how this all works. How does the text get put on the page? Where do the colors come from? What makes the submit button do stuff? And that&amp;#8217;s the fun part to me. I am getting that info and a glimpse at the history of it coming about. &lt;/p&gt;&lt;p&gt;But there is SO much to learn! It is taking time to sink in. Every Friday and with every touch-base I have told my instructors: &amp;#8220;The things I have learned last week are finally starting to sink in this week.&amp;#8221; This seems to be my theme and motivation.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Some of this stuff is really confusing, and if you blink during lecture, you miss it. Sometimes I learn something, but that newfound knowledge is not reinforced until days later. But rather than get discouraged by this, I choose to embrace it. I just see it as my pattern and learning speed and I know that I am getting there.&lt;/p&gt;
+
+
+</description>
+				
+				<pubDate>Wed, 18 Feb 2015 22:32:13 -0600</pubDate>
+				<link>http://www.burkyburk/blog/2015/02/18/getting-there.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/2015/02/18/getting-there.html</guid>
+			</item>
+		
+			<item>
+				<title>What is THIS?!</title>
+				        
+				
+					<description>&lt;p&gt;Today at the Iron Yard we dove into a loved (and equally hated) word. That word is &lt;i&gt;THIS&lt;/i&gt;. Yes, this. A simple four letter word that we use often to describe something we point at or have in our hand. Today I learned how it can be implemented in Javascript, and even make my coding life easier!&lt;/p&gt;&lt;p&gt;To break out down as simple as possible, &lt;i&gt;this &lt;/i&gt;is a handy shortcut. It allows us to type the word &lt;i&gt;this&lt;/i&gt; in place of the full variable name, when accessing parameters of an object. For example:&lt;/p&gt;&lt;p&gt;var MyName = {&lt;/p&gt;&lt;p&gt;firstName: Jacob, &lt;/p&gt;&lt;p&gt;lastName: Burkhart&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;&lt;p&gt;Can be called upon like so:&lt;/p&gt;&lt;p&gt;console.log(this.firstName + &amp;#8221; + this.lastName);&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;In this example, this is taking place of the MyName variable. It&amp;#8217;s the same as typing out MyName.firstName, etc.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;However, while &lt;i&gt;this&lt;/i&gt; is a fun tool to use, to make coding quicker and more efficient, it has it&amp;#8217;s nuances. This is where scoping comes into play. It is important to make sure that the use of &lt;i&gt;this&lt;/i&gt; is inside a function where &lt;i&gt;this&lt;/i&gt; is defined. Using &lt;i&gt;this&lt;/i&gt; at the top of your code, then again at the bottom, does not necessarily mean the the same thing. It is only used within the function that has defined it.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;I know it is a confusing subject, and to be honest I haven&amp;#8217;t &lt;i&gt;completely &lt;/i&gt;grasped it. This feels like a facet of Javascript that may take a few mistakes to learn from. But, from now on I will be looking for opportunities to use THIS in my code!&lt;/p&gt;
+
+
+</description>
+				
+				<pubDate>Wed, 04 Feb 2015 19:02:59 -0600</pubDate>
+				<link>http://www.burkyburk/blog/2015/02/04/what-is-this.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/2015/02/04/what-is-this.html</guid>
+			</item>
+		
+			<item>
+				<title>Teamwork</title>
+				        
+				
+					<description>&lt;p&gt;&quot;It takes teamwork to make the dream work.&quot; &lt;/p&gt;&lt;p&gt;I apologize. That is a terribly cheesy quote. However, there is so much truth in it. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;This past weekend I worked on my first group project as a front-end web developer.  I worked on a three person team with a fellow front-ender as well as a back-end, ruby on rails student. Our project was to create a chat application that would post messages to a server, and pull them back down in a chat room on the web page. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;The project was very fun to work on. It felt like what I imagine working as a front-end developer is really like. We created a workflow, made user stories, and mapped out what we wanted to create as a team. We had meetings 4 days in a row and discussed the progress we had made each day. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;It was amazing to see how the things we have learned on the front-end, partner with what the back-enders are learning. Also, collaborating with my fellow front-end developer was great. We were able to bounce ideas off of each other and come up with even better ideas than we would have had on our own.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;There were a few unexpected challenges, though. Mainly with using github and keeping our files organized. We had not yet mastered the art of keeping our information in sync whilst working on the same project and some files had to be re-created. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;All in all, it was a great experience and I saw growth in myself and my peers this weekend. I have honestly missed collaborating in a professional setting such as this. Some of my previous jobs were heavy on it. I think group projects are very valuable for the end product as well as those working on the project. &lt;/p&gt;
+
+
+</description>
+				
+				<pubDate>Mon, 02 Feb 2015 18:39:21 -0600</pubDate>
+				<link>http://www.burkyburk/blog/2015/02/02/teamwork.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/2015/02/02/teamwork.html</guid>
+			</item>
+		
+			<item>
+				<title>The Iron Yard</title>
+				        
+				
+					<description>&lt;p&gt;The past month I have been attending code school at &lt;a href=&quot;http://www.theironyard.com&quot;&gt;The Iron Yard&lt;/a&gt;. This has been one of the most exciting times of my life so far. I am learning something completely new, being subjected to tons of new ideas and web languages. It is extremely exciting to get up in the morning and go to school everyday. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;However, the learning does not always come easy, and there are always challenges involved. (For me, at least.)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Coding school is very intensive and requires a very meticulous and thought-out schedule. Especially for myself, being married and all. Finding time to spend with my wife has been difficult, but we knew this going in. And she is very supportive of this new chapter in my life, which is great! Also, sleep. Did I mention sleep? I cherish it.&lt;/p&gt;
+
+
+</description>
+				
+				<pubDate>Mon, 02 Feb 2015 18:26:43 -0600</pubDate>
+				<link>http://www.burkyburk/blog/2015/02/02/the-iron-yard.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/2015/02/02/the-iron-yard.html</guid>
+			</item>
+		
+			<item>
+				<title>I&#39;m Back!</title>
+				        
+				
+					<description>&lt;p&gt;I&amp;#8217;m back! Well, I think I&amp;#8217;m back at least. My plan is to start updating the old bloggy-poo more often. &lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 26 Jan 2015 21:32:24 -0600</pubDate>
+				<link>http://www.burkyburk/blog/2015/01/26/im-back-well-i-think-im-back-at-least-my-plan.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/2015/01/26/im-back-well-i-think-im-back-at-least-my-plan.html</guid>
+			</item>
+		
+			<item>
+				<title>Welcome to Jekyll!</title>
+				        
+				
+					<description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 10 Nov 2013 04:18:00 -0600</pubDate>
+				<link>http://www.burkyburk/blog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</guid>
+			</item>
+		
+	</channel>
+</rss>
