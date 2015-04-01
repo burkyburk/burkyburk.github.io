@@ -3,7 +3,7 @@ title: Burkyburk's Blog
 email: JacobDouglsBurkhart@gmail.com
 description: some description
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://www.burkyburk.com" # the base hostname & protocol for your site
+url: "http://burkyburk.github.io" # the base hostname & protocol for your site
 twitter_username: burkyburk
 github_username:  burkyburk
 
