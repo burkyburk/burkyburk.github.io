@@ -1,0 +1,8 @@
+---
+layout: post
+title: What is THIS?!
+date: '2015-02-04T19:02:59-06:00'
+tags: []
+tumblr_url: http://burkyburk.tumblr.com/post/110115501717/what-is-this
+---
+<p>Today at the Iron Yard we dove into a loved (and equally hated) word. That word is <i>THIS</i>. Yes, this. A simple four letter word that we use often to describe something we point at or have in our hand. Today I learned how it can be implemented in Javascript, and even make my coding life easier!</p><p>To break out down as simple as possible, <i>this </i>is a handy shortcut. It allows us to type the word <i>this</i> in place of the full variable name, when accessing parameters of an object. For example:</p><p>var MyName = {</p><p>firstName: Jacob, </p><p>lastName: Burkhart</p><p>}</p><p>Can be called upon like so:</p><p>console.log(this.firstName + &#8221; + this.lastName);</p><p><br/></p><p>In this example, this is taking place of the MyName variable. It&#8217;s the same as typing out MyName.firstName, etc.</p><p><br/></p><p>However, while <i>this</i> is a fun tool to use, to make coding quicker and more efficient, it has it&#8217;s nuances. This is where scoping comes into play. It is important to make sure that the use of <i>this</i> is inside a function where <i>this</i> is defined. Using <i>this</i> at the top of your code, then again at the bottom, does not necessarily mean the the same thing. It is only used within the function that has defined it.</p><p><br/></p><p>I know it is a confusing subject, and to be honest I haven&#8217;t <i>completely </i>grasped it. This feels like a facet of Javascript that may take a few mistakes to learn from. But, from now on I will be looking for opportunities to use THIS in my code!</p>
