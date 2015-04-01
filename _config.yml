@@ -1,15 +1,13 @@
-name: burkyburk
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Burkyburk
+description: Generally Specific Sweet Nothings
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 5
 paginate_path: "/blog/page:num/"
 baseurl: 
 domain_name: 'http://www.burkyburk.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
 url:            'http://www.burkyburk/blog'
