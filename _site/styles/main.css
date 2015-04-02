@@ -31,8 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -103,10 +102,10 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+    letter-spacing: .1em;
 }
 
 header .intro-text .skills {
@@ -157,9 +156,8 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: Raleway,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 800;
 }
 
 .navbar a:focus {
@@ -262,7 +260,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #FDF5E6;
     font-size: 20px;
     color: #fff;
     background: 0 0;
@@ -273,9 +271,9 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 2px #FDF5E6;
     color: #F68174;
-    background: #fff;
+    background: #FDF5E6;
 }
 
 .floating-label-form-group {
@@ -360,11 +358,12 @@ footer .footer-below {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    border: 2px solid #FDF5E6;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
     line-height: 45px;
+    color: #FDF5E6;
 }
 
 .btn:focus,
@@ -461,4 +460,9 @@ footer .footer-below {
     color: #FDF5E6;
     font-size: 3em;
     text-align:center;
+}
+.texaslogo {
+    padding-top: 1.5em;
+    margin-bottom:-3em;
+       
 }

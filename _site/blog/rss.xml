@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Burkyburk</title>
-		<description>Generally Specific Sweet Nothings</description>		
+		<title>burkyburk</title>
+		<description>generally specific</description>		
 		<link>http://www.burkyburk/blog</link>
 		<atom:link href="http://www.burkyburk/blog/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>A Code School Graduate</title>
+				        
+				
+					<description>&lt;p&gt;I graduated from &lt;a href=&quot;http://www.theironyard.com&quot;&gt;The Iron Yard&lt;/a&gt; code school last Friday! It’s been a wild, exhausting ride. I’m very thankful for the new knowledge and relationships I have acquired during this program.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 02 Apr 2015 00:00:00 -0500</pubDate>
+				<link>http://www.burkyburk/blog/2015/04/02/a-code-school-graduate.html</link>
+				<guid isPermaLink="true">http://www.burkyburk/blog/2015/04/02/a-code-school-graduate.html</guid>
+			</item>
 		
 			<item>
 				<title>Text Editors - A Newbie&#39;s Opinion</title>
 				        
 				
-					<description>&lt;p&gt;Ah yes, the text editor. Dare I say, your number one companion as a coder? As a new web developer, (in the game for 2 months), I&amp;#8217;d like to share my opinion on the four text editor&amp;#8217;s I have tried. This is not intended to be an endorsement, simply just my observations on the four I have used. So here we go&amp;#8230;.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h5&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;#1. Sublime Text.&lt;/a&gt; &lt;/h5&gt;&lt;p&gt;   Right out of the gate, I will start off by saying Sublime is the #1 used and the go-to text editor for the majority of programmers. It simply gets the job done. I have yet to hear of any of my peers having an issue or bug with it. A key component to the success of Sublime is it&amp;#8217;s large fan base and community of users. These users have made thousands of plugins and themes to completely customize your Sublime experience. And did I mention Sublime just works? Yes. It is as stable and reliable as can be. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h5&gt;&lt;a href=&quot;http://brackets.io/&quot;&gt;#2. Brackets&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;  Brackets is made by Adobe, the brains behind the ever-so popular Photoshop suite. That alone may give you and idea of what this text editor is geared towards. Brackets has amazing design and front-end capabilities. It comes with a live preview feature that shows you a preview of the page you are building while you are creating it. This editor has huge support for Photoshop. It has a feature called Extract that gives you design info from imported PSD files including colors, fonts, gradients, and measurement information. How cool is that?&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h5&gt;&lt;a href=&quot;http://lighttable.com/&quot;&gt;#3. Light Table&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;   Light Table touts itself as the &amp;#8220;next generation code editor&amp;#8221;. This is a pretty bold statement, and it may very well be true. However, I feel as though I was unable to tap into it&amp;#8217;s full potential. One of the main features of Light Table is to be able to evaluate your code while you are typing it. This sounds pretty neat, but I was unable to get this feature to work correctly. I fear this code editor maybe isn&amp;#8217;t too newbie friendly or I was just doing something wrong. I will say however,  I much prefer the aesthetic of this editor. The minimal, lightweight design is beautiful. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h5&gt;&lt;a href=&quot;https://atom.io/&quot;&gt;#4. Atom&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;   Atom is currently my text editor of choice. It&amp;#8217;s made by the fine folks at &lt;a href=&quot;http://www.github.com&quot;&gt;Github&lt;/a&gt;, and is backed by a growing community. Atom looks similar to Sublime from the start and has the same amount of reliability. Also, it&amp;#8217;s updated religiously. I would say once a week. They have a team that is constantly finding bugs and ways to improve the application. That&amp;#8217;s something I love and support. Atom is extremely customizable and I love it&amp;#8217;s easy to understand user interface. You can search for new plugins and themes very easily, and see what plugins and themes have been downloaded the most/are the most popular. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;   So there you have it, my two cents. I will continue to play around with all of these editors and report back if I have new substantial findings. I have no doubt new editors will come out as well. But, for now, Atom has my attention!&lt;/p&gt;
+					<description>&lt;p&gt;Ah yes, the text editor. Dare I say, your number one companion as a coder? As a new web developer, (in the game for 2 months), I&amp;#8217;d like to share my opinion on the four text editor&amp;#8217;s I have tried. This is not intended to be an endorsement, simply just my observations on the four I have used. So here we go&amp;#8230;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;#1. Sublime Text.&lt;/a&gt; &lt;/h5&gt;
+&lt;p&gt;   Right out of the gate, I will start off by saying Sublime is the #1 used and the go-to text editor for the majority of programmers. It simply gets the job done. I have yet to hear of any of my peers having an issue or bug with it. A key component to the success of Sublime is it&amp;#8217;s large fan base and community of users. These users have made thousands of plugins and themes to completely customize your Sublime experience. And did I mention Sublime just works? Yes. It is as stable and reliable as can be. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;a href=&quot;http://brackets.io/&quot;&gt;#2. Brackets&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;  Brackets is made by Adobe, the brains behind the ever-so popular Photoshop suite. That alone may give you and idea of what this text editor is geared towards. Brackets has amazing design and front-end capabilities. It comes with a live preview feature that shows you a preview of the page you are building while you are creating it. This editor has huge support for Photoshop. It has a feature called Extract that gives you design info from imported PSD files including colors, fonts, gradients, and measurement information. How cool is that?&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;a href=&quot;http://lighttable.com/&quot;&gt;#3. Light Table&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;   Light Table touts itself as the &amp;#8220;next generation code editor&amp;#8221;. This is a pretty bold statement, and it may very well be true. However, I feel as though I was unable to tap into it&amp;#8217;s full potential. One of the main features of Light Table is to be able to evaluate your code while you are typing it. This sounds pretty neat, but I was unable to get this feature to work correctly. I fear this code editor maybe isn&amp;#8217;t too newbie friendly or I was just doing something wrong. I will say however,  I much prefer the aesthetic of this editor. The minimal, lightweight design is beautiful. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;a href=&quot;https://atom.io/&quot;&gt;#4. Atom&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;   Atom is currently my text editor of choice. It&amp;#8217;s made by the fine folks at &lt;a href=&quot;http://www.github.com&quot;&gt;Github&lt;/a&gt;, and is backed by a growing community. Atom looks similar to Sublime from the start and has the same amount of reliability. Also, it&amp;#8217;s updated religiously. I would say once a week. They have a team that is constantly finding bugs and ways to improve the application. That&amp;#8217;s something I love and support. Atom is extremely customizable and I love it&amp;#8217;s easy to understand user interface. You can search for new plugins and themes very easily, and see what plugins and themes have been downloaded the most/are the most popular. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;   So there you have it, my two cents. I will continue to play around with all of these editors and report back if I have new substantial findings. I have no doubt new editors will come out as well. But, for now, Atom has my attention!&lt;/p&gt;
+
 </description>
 				
 				<pubDate>Sun, 08 Mar 2015 20:41:50 -0500</pubDate>
