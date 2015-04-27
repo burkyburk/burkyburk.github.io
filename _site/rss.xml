@@ -8,7 +8,16 @@
     <title>burkyburk</title>
     <link>http://www.burkyburk/blog</link>
     <description>generally specific</description>
-    <pubDate>Thu, 02 Apr 2015 00:00:00 -0500</pubDate>
+    <pubDate>Mon, 27 Apr 2015 10:18:00 -0500</pubDate>
+    <item>
+      <title>Eurotrip</title>
+      <link>http://www.burkyburk/blog/2015/04/27/Eurotrip!.html</link>
+      <description>&lt;p&gt;My wife and I are going to Europe in a few weeks! I’m beyond excited and a tad overwhelmed. We bought the tickets back in October, before I knew I would be attending code school. And since I have been studying and coding for the last 4 months, I haven’t planned the trip at all! &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 27 Apr 2015 10:18:00 -0500</pubDate>
+      <dc:date>2015-04-27T10:18:00-05:00</dc:date>
+    </item>
     <item>
       <title>A Code School Graduate</title>
       <link>http://www.burkyburk/blog/2015/04/02/a-code-school-graduate.html</link>
@@ -122,6 +131,6 @@
       <pubDate>Mon, 26 Jan 2015 21:32:24 -0600</pubDate>
       <dc:date>2015-01-26T21:32:24-06:00</dc:date>
     </item>
-    <dc:date>2015-04-02T00:00:00-05:00</dc:date>
+    <dc:date>2015-04-27T10:18:00-05:00</dc:date>
   </channel>
 </rss>
